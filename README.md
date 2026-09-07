@@ -4,7 +4,7 @@
 
 ### **Community Operations Manager • Web Developer • Project Lead**
 
-[![Website](https://img.shields.io/badge/Portfolio-ksperixdev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ksperixdev.vercel.app/)
+[![Website](https://img.shields.io/badge/Portfolio-ksperixdev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](www.ksperix.dev)
 [![Discord](https://img.shields.io/badge/Discord-ksperix.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ksperix.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-ksperix-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksperix)
 
