@@ -4,7 +4,7 @@
 
 ### **Community Operations Manager • Web Developer • Project Lead**
 
-[![Website](https://img.shields.io/badge/Portfolio-ksperixdev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](www.ksperix.dev)
+[![Website](https://img.shields.io/badge/Website-www.ksperix.dev-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.ksperix.dev)
 [![Discord](https://img.shields.io/badge/Discord-ksperix.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ksperix.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-ksperix-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksperix)
 
@@ -68,37 +68,26 @@ Od **7 lat** łączę kompetencje menedżerskie, zarządcze i technologiczne. Sp
 
 ## 📂 Wybrane Projekty & Ekosystemy
 
-### 🌐 [BrainlyHQ Ecosystem](https://ksperixdev.vercel.app/)
+### 🌐 [BrainlyHQ Ecosystem](https://www.ksperix.dev/)
 Międzynarodowa społeczność i autorski ekosystem zarządczy. Prowadzenie zaawansowanych struktur ról, automatyzacji moderacji, mechanik ekonomii serwerowej oraz zewnętrznych integracji.
 
 ### 🛡️ [VANTRX Platform](https://vantrx.pl)
 Dedykowany ekosystem stworzony dla branży **Adult UGC**. Zapewnia automatyzację procesów biurowych, zarządzanie uprawnieniami oraz bezpieczną infrastrukturę i ochronę zasobów cyfrowych.
 
-### 💼 [Les Moutons Bags](https://ksperixdev.vercel.app/)
+### 💼 [Les Moutons Bags](https://www.ksperix.dev/)
 Kompleksowa identyfikacja wizualna (branding) oraz projekt witryny e-commerce dostosowany do wymogów nowoczesnego rynku.
 
-### 🤝 [Partnership Network Portal](https://ksperixdev.vercel.app/)
+### 🤝 [Partnership Network Portal](https://www.ksperix.dev/)
 Portal wspierający program partnerski, umożliwiający zarządzanie siecią powiązań oraz sprawną wymianę zasobów pomiędzy podmiotami.
 
-### 🔔 [Notifications & Automation Systems](https://ksperixdev.vercel.app/)
+### 🔔 [Notifications & Automation Systems](https://www.ksperix.dev/)
 Autorskie skrypty i boty powiadomień (Slack / Discord) przesyłające alerty operacyjne, raporty aktywności oraz decyzje bezpośrednio do kluczowych kanałów zespołu.
-
----
-
-## 📈 Statystyki GitHub
-
-<div align="center">
-
-![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksperix&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksperix&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
 ## 📬 Skontaktuj się ze mną
 
-* **Website:** [ksperixdev.vercel.app](https://ksperixdev.vercel.app/)
+* **Website:** [www.ksperix.dev](https://www.ksperix.dev)
 * **Discord:** `ksperix.dev`
 * **GitHub:** [@ksperix](https://github.com/ksperix)
 
