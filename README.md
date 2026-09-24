@@ -10,7 +10,7 @@
 
 ---
 
-> *"Nie tylko koduję. Projektuję pełną infrastrukturę operacyjną, automatyzuję procesy zespołowe, wprowadzam dedykowane narzędzia i wdrażam strategię stałego wzrostu."*
+> *"Nie tylko koduję. Projektuję pełną infrastrukturę ekosystemu, automatyzuję procesy zespołowe, wprowadzam narzędzia cyfrowe i wdrażam strategię stałego wzrostu."*
 
 </div>
 
@@ -18,11 +18,11 @@
 
 ## 🚀 O Mnie
 
-Od **7 lat** łączę kompetencje menedżerskie, zarządcze i technologiczne. Specjalizuję się w przekształcaniu chaosu operacyjnego w powtarzalne, wydajne procedury oraz w tworzeniu dedykowanych systemów i autorskich narzędzi dla zespołów i społeczności.
+Od **7 lat** łączę kompetencje menedżerskie, zarządcze i technologiczne. Przekształcam chaos w powtarzalne, wydajne procedury oraz w tworzę zaawansowane systemy i autorskie narzędzi dla zespołów i społeczności.
 
-* 🌐 **BrainlyHQ:** Prowadzę i skaluję międzynarodową społeczność **BrainlyHQ Ecosystem** — odpowiadam za architekturę serwerów, struktury ról, systemy ekonomii, zabezpieczenia oraz koordynację zespołu.
+* 🌐 **BrainlyHQ:** Prowadzę i skaluję międzynarodową społeczność **BrainlyHQ Ecosystem** - odpowiadam za architekturę serwerów, struktury ról, systemy ekonomii, zabezpieczenia oraz koordynację zespołu.
 * 🔞 **Adult UGC Infrastructure:** Posiadam 3-letnie doświadczenie w sektorze Adult UGC. Twórca ekosystemu **VANTRX** służącego do automatyzacji, organizacji procesów administracyjnych i ochrony zasobów cyfrowych.
-* 🤖 **Automation & Bot Development:** Tworzę dedykowane boty i integracje (m.in. na **Slack API** oraz **Discord API**) z wykorzystaniem modeli AI (Groq API, Llama), automatyzujące komunikację, raportowanie i przepływ zadań.
+* 🤖 **Automation & Bot Development:** Tworzę dedykowane boty i integracje (m.in. na **Slack API** oraz **Discord API**), automatyzujące komunikację, raportowanie i przepływ zadań.
 * 💻 **Web & UI Design:** Projektuję nowoczesne, szybkie i dopracowane wizualnie aplikacje webowe w technologiach **Next.js**, **React** i **Tailwind CSS**.
 
 ---
