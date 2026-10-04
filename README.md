@@ -10,7 +10,7 @@
 
 ---
 
-> *"Rozwój marki od A do Z — od identyfikacji graficznej i stron WWW, po dokumentację techniczno-operacyjną i automatyzacje."*
+<img src="./RM3.png" alt="Rozwój marki od A do Z" width="100%" />
 
 </div>
 
