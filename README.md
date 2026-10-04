@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Kacper (**ksperix.dev**)
+# 👋 Cześć, jestem Kacper (**ksperix.dev**)
 
 ### **Community Operations Manager • Web Developer • Project Lead**
 
@@ -10,24 +10,24 @@
 
 ---
 
-> *"Nie tylko koduję. Projektuję pełną infrastrukturę ekosystemu, automatyzuję procesy zespołowe, wprowadzam narzędzia cyfrowe i wdrażam strategię stałego wzrostu."*
+> *"Rozwój marki od A do Z — od identyfikacji graficznej i stron WWW, po dokumentację techniczno-operacyjną i automatyzacje."*
 
 </div>
 
 ---
 
-## 🚀 O Mnie
+## 🚀 O mnie
 
-Od **7 lat** łączę kompetencje menedżerskie, zarządcze i technologiczne. Przekształcam chaos w powtarzalne, wydajne procedury oraz w tworzę zaawansowane systemy i autorskie narzędzi dla zespołów i społeczności.
+Od kilku lat zajmuję się szeroko pojętym zarządzeniem społecznościami, architekturą systemów oraz deweloperką. Nie tylko piszę kod, ale też buduję kompletne ekosystemy od zera, łącząc front-end z automatyzacją procesów w tle.
 
-* 🌐 **BrainlyHQ:** Prowadzę i skaluję międzynarodową społeczność **BrainlyHQ Ecosystem** - odpowiadam za architekturę serwerów, struktury ról, systemy ekonomii, zabezpieczenia oraz koordynację zespołu.
-* 🔞 **Adult UGC Infrastructure:** Posiadam 3-letnie doświadczenie w sektorze Adult UGC. Twórca ekosystemu **VANTRX** służącego do automatyzacji, organizacji procesów administracyjnych i ochrony zasobów cyfrowych.
-* 🤖 **Automation & Bot Development:** Tworzę dedykowane boty i integracje (m.in. na **Slack API** oraz **Discord API**), automatyzujące komunikację, raportowanie i przepływ zadań.
-* 💻 **Web & UI Design:** Projektuję nowoczesne, szybkie i dopracowane wizualnie aplikacje webowe w technologiach **Next.js**, **React** i **Tailwind CSS**.
+* 🌐 **BrainlyHQ:** Prowadzę i skaluję międzynarodową społeczność **BrainlyHQ Ecosystem** – odpowiadam za architekturę serwera, boty, systemy ekonomii, zabezpieczenia oraz koordynację zespołu.
+* 🔞 **Infrastruktura Adult UGC:** Posiadam wieloletnie doświadczenie w sektorze Adult UGC, gdzie tworzę systemy automatyzacji, organizacji pracy zaplecza oraz ochrony cyfrowych zasobów (m.in. ekosystem **VANTRX**).
+* 🤖 **Boty i Automatyzacje:** Projektuję i wdrażam autorskie boty oraz integracje (Slack API, Discord API, Google Apps Script), które spinają codzienne operacje i eliminują powtarzalne zadania.
+* 💻 **Web Development & Design:** Tworzę szybkie, czytelne aplikacje webowe oraz strony oparte o nowoczesny stos technologiczny, dbając przy tym o spójną identyfikację wizualną i typografię.
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## 🛠️ Stack Technologiczny
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ Od **7 lat** łączę kompetencje menedżerskie, zarządcze i technologiczne. Pr
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%"><strong>Backend & Automation</strong></td>
+    <td align="center" width="20%"><strong>Backend & Boty</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -54,40 +54,37 @@ Od **7 lat** łączę kompetencje menedżerskie, zarządcze i technologiczne. Pr
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%"><strong>Operations & Cloud</strong></td>
+    <td align="center" width="20%"><strong>Narzędzia & Branding</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/UI/UX_Visual_Design-FF61F6?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/UI/UX_&_Figma-FF61F6?style=flat-square&logo=figma&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📂 Wybrane Projekty & Ekosystemy
+## 📂 Wybrane Projekty & Działania
 
 ### 🌐 [BrainlyHQ Ecosystem](https://www.ksperix.dev/)
-Międzynarodowa społeczność i autorski ekosystem zarządczy. Prowadzenie zaawansowanych struktur ról, automatyzacji moderacji, mechanik ekonomii serwerowej oraz zewnętrznych integracji.
+Międzynarodowa społeczność, w której odpowiadam za warunkową strukturę ról, zabezpieczenia, ekonomię oraz ciągły rozwój techniczny platformy.
 
 ### 🛡️ [VANTRX Platform](https://vantrx.pl)
-Dedykowany ekosystem stworzony dla branży **Adult UGC**. Zapewnia automatyzację procesów biurowych, zarządzanie uprawnieniami oraz bezpieczną infrastrukturę i ochronę zasobów cyfrowych.
+Infrastruktura dedykowana branży Adult UGC. Automatyzacja procesów back-office, zarządzanie uprawnieniami użytkowników oraz ochrona zasobów.
 
 ### 💼 [Les Moutons Bags](https://www.ksperix.dev/)
-Kompleksowa identyfikacja wizualna (branding) oraz projekt witryny e-commerce dostosowany do wymogów nowoczesnego rynku.
+Projekt komercyjny obejmujący kompleksową identyfikację wizualną oraz wdrożenie strony e-commerce.
 
-### 🤝 [Partnership Network Portal](https://www.ksperix.dev/)
-Portal wspierający program partnerski, umożliwiający zarządzanie siecią powiązań oraz sprawną wymianę zasobów pomiędzy podmiotami.
-
-### 🔔 [Notifications & Automation Systems](https://www.ksperix.dev/)
-Autorskie skrypty i boty powiadomień (Slack / Discord) przesyłające alerty operacyjne, raporty aktywności oraz decyzje bezpośrednio do kluczowych kanałów zespołu.
+### 📄 Dokumentacja & Konsultacje
+Pomagam w strukturze projektów, pisaniu precyzyjnej dokumentacji technicznej oraz doradztwie w zakresie wdrażania narzędzi cyfrowych.
 
 ---
 
-## 📬 Skontaktuj się ze mną
+## 📬 Kontakt
 
-* **Website:** [www.ksperix.dev](https://www.ksperix.dev)
+* **Strona WWW:** [www.ksperix.dev](https://www.ksperix.dev)
 * **Discord:** `ksperix.dev`
 * **GitHub:** [@ksperix](https://github.com/ksperix)
 
